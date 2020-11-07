@@ -1,2 +1,3 @@
 はじめましてGit
-
+git add
+git commit
